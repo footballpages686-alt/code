@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Cili element kimik ka simbolin O?",
+        "choice1": "Ari",
+        "choice2": "Oksigjeni",
+        "choice3": "Hidrogjeni",
+        "choice4": "Karboni ",
+        "answer": 2
+    },
+    {
+        "question": "Cila është njësia matëse e forcës?",
+        "choice1": "Xhauli",
+        "choice2": "Vati",
+        "choice3": "Njutoni",
+        "choice4": "Paskali",
+        "answer": 3
+    },
+    {
+        "question": "Cila organele njihet si centrali energjetik i qelizës?",
+        "choice1": "Bërthama",
+        "choice2": "Ribozomi",
+        "choice3": "Aparati i Golxhit",
+        "choice4": "Mitokondria",
+        "answer": 4
+    },
+    {
+        "question": "Cila është formula kimike e ujit?",
+        "choice1": "H2O",
+        "choice2": "CO2",
+        "choice3": "NaCl",
+        "choice4": "C6H12O6",
+        "answer": 1
+    },
+    {
+        "question": "Cili planet ka gravitetin më të madh nga këta planetë?",
+        "choice1": "Marsi",
+        "choice2": "Toka",
+        "choice3": "Jupiter",
+        "choice4": "Saturn",
+        "answer": 3
+    }
+]
